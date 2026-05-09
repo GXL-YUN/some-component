@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "领养详情",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

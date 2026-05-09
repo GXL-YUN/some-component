@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "宠觅",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

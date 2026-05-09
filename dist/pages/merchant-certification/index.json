@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商家认证",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

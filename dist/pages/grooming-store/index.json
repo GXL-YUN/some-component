@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "门店设置",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

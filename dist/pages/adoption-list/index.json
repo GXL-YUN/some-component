@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "领养广场",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

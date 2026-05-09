@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "上传检疫证明",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

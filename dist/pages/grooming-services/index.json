@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "服务管理",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

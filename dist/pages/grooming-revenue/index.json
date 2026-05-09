@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "营收统计",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

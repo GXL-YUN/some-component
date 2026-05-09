@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "创建报价",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

@@ -1,0 +1,1 @@
+.adoption-waterfall{height:calc(100vh - 44rpx)}.line-clamp-2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}

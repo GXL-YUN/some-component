@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "报价大厅",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}

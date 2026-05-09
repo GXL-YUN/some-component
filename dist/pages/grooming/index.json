@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "洗护预约",
+  "usingComponents": {
+    "comp": "../../comp"
+  }
+}
